@@ -1,0 +1,5 @@
+10 (number of processes)
+0 (if not RR nor preemptive, 1 for opposite) 2 (=quantum)
+3 (arriving time for P1) 12(burst time) 2(priority)
+…
+0 (arriving time for P10) 7(burst time) 5(priority)

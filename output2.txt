@@ -1,0 +1,7 @@
+Process ID: 4 Start Time: 0 End Time: 2
+Process ID: 2 Start Time: 5 End Time: 12
+Process ID: 5 Start Time: 2 End Time: 5
+Process ID: 3 Start Time: 12 End Time: 18
+Process ID: 1 Start Time: 18 End Time: 24
+Average Wait time: 6.0
+Average Response time: 10.8
